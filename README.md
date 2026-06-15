@@ -10,8 +10,8 @@ Detailed notes from Andrew Ng's Machine Learning Specialization (Coursera).
 
 ## Status
 
-✅ Course 1 completed (Certificate earned)
-🔄 Course 2: Advanced Learning Algorithms — in progress
+ Course 1 completed (Certificate earned)
+ Course 2: Advanced Learning Algorithms — in progress
 
 ---
 *Notes maintained by Sahil Pandey, DTU*
