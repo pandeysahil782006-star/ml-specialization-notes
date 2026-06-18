@@ -13,5 +13,11 @@ Detailed notes from Andrew Ng's Machine Learning Specialization (Coursera).
  Course 1 completed (Certificate earned)
  Course 2: Advanced Learning Algorithms — in progress
 
+ 
+## Data Science Foundations
+Essential libraries mastered for data manipulation and preprocessing before diving deep into complex model architectures:
+
+*   **NumPy:** Multi-dimensional arrays, matrix operations, transpositions, and vectorized computations.
+*   **Pandas:** Tabular data handling, DataFrames, data exploration (`.info()`, `.describe()`), and dataset filtering.
 ---
 *Notes maintained by Sahil Pandey, DTU*
