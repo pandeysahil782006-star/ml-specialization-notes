@@ -429,5 +429,4 @@ import numpy as np<br>x = np.array([1, 2, 3])<br>y = np.array([2, 4, 6])<br>m = 
 
 
 
-_Best of luck Sahil! Keep going — Week 2 incoming._ 
 
