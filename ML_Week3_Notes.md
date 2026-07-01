@@ -541,6 +541,3 @@ print('predictions:', predictions)
 |b is never regularized|Only w1...wn get the regularization term|
 
 
-
-_Course 1 complete, Sahil! This is the foundation for everything ahead - solid work._ 
-
