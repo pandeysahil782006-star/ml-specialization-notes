@@ -448,5 +448,4 @@ print(predictions)
 
 
 
-_Solid progress Sahil! Week 3 (Classification & Logistic Regression) next._ 
 
